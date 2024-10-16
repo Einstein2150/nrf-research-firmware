@@ -1,4 +1,4 @@
-#!/usr/bin/env python2
+#!/usr/bin/env python3
 '''
   Copyright (C) 2016 Bastille Networks
 
@@ -14,10 +14,20 @@
 
   You should have received a copy of the GNU General Public License
   along with this program.  If not, see <http://www.gnu.org/licenses/>.
+  
+   
+  (Fork - 2024)
+  This program has been developed and optimized for use with Python 3 
+  by Einstein2150. The author acknowledges that further development 
+  and enhancements may be made in the future. The use of this program is 
+  at your own risk, and the author accepts no responsibility for any damages 
+  that may arise from its use. Users are responsible for ensuring that their 
+  use of the program complies with all applicable laws and regulations.
+  
 '''
 
-
-import time, logging
+import time
+import logging
 from lib import common
 
 # Parse command line arguments and initialize the radio
@@ -32,5 +42,4 @@ common.radio.enter_tone_test_mode()
 
 # Run indefinitely
 while True:
-  pass
-
+    pass
