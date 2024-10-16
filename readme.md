@@ -1,6 +1,7 @@
 # RFStorm nRF24LU1+ Research Firmware
 
 Firmware and research tools for Nordic Semiconductor nRF24LU1+ based USB dongles and breakout boards.
+Python3 compatible version by Einstein2150
 
 ## Requirements
 
