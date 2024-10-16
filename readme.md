@@ -3,6 +3,10 @@
 Firmware and research tools for Nordic Semiconductor nRF24LU1+ based USB dongles and breakout boards.
 Python3 compatible version by Einstein2150
 
+## Quick-Install with precompiled firmware (recommended)
+	Terminal:
+ ```./prog/usb-flasher/usb-flash.py bin/dongle.bin```
+
 ## Requirements
 
 - SDCC (minimum version 3.1.0)
