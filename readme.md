@@ -3,6 +3,10 @@
 Firmware and research tools for Nordic Semiconductor nRF24LU1+ based USB dongles and breakout boards.
 Python3 compatible version by Einstein2150
 
+## Migration from Python 2 to Python 3
+
+This project has been migrated from Python 2 to Python 3. The codebase has been thoroughly updated to take advantage of Python 3's features, syntax improvements, and enhanced libraries. Users should ensure that they are using a Python 3.x interpreter to run the script. Compatibility with Python 2 is no longer supported, and users are encouraged to upgrade their environments accordingly.
+
 ## Quick-Install with precompiled firmware for CrazyRadio PA USB dongle (recommended)
 
 Terminal:
